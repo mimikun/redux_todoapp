@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2"
+  },
+  "name": "redux_todoapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mimikun <dzdzble_Effort_311@outlook.jp>",
+  "license": "MIT"
+}
